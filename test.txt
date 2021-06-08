@@ -2,7 +2,5 @@
 this used to test the remote git
 this line is add by master
 add a new line to test the master branch
-=======
-this line is appended by the dev branch
->>>>>>> dev
-this line is appended by master
+this line is append by feature1 and master
+ 
