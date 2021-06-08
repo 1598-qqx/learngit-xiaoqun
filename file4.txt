@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 local workspace add this line
+=======
+other clone user add this line
+>>>>>>> f7ad8223f4fd9a6bda9e1827854b0580c535a809
+local add
