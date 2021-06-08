@@ -5,3 +5,4 @@ add a new line to test the master branch
 =======
 this line is appended by the dev branch
 >>>>>>> dev
+this line appended by feature1
