@@ -5,3 +5,4 @@ add a new line to test the master branch
 this line is append by feature1 and master
  this line is used to test no-off merge
 \n
+new clone git in another workspace
